@@ -10,6 +10,7 @@ Instaled docker.
 Installed PyCharm - preferably.
 Installed Python 3.
 Installed pip.
+Installed pytest package under project locally (\\QA zadatak (1)\QA zadatak\tests)
 
 
 
