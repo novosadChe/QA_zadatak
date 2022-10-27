@@ -1,3 +1,18 @@
+#*UPDATE
+
+Tests are written in Python using pytest testing framework, and are located on the \\QA zadatak\tests\test_smartcat.py inside projects folder.
+
+##Requirements:
+Instaled docker.
+Installed PyCharm - preferably.
+Installed Python 3.
+Installed pip.
+
+##Test execution:
+After the docker-compose up command is executed in the projects root folder, tests can be executed from the location \\QA zadatak (1)\QA zadatak\tests\test_smartcat.py
+
+
+
 
 Call example: [http://localhost:9090/shifts?ids=1,2,3&user_ids=1,2](http://localhost:9090/shifts?ids=1,2,3&user_ids=1,2)
 
